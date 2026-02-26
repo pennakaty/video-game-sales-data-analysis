@@ -28,3 +28,9 @@ The analysis is performed on `Global_Video_Game_Sales.csv`, which includes:
 2. Ensure you have the following dependencies installed:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+## 📁 Dataset
+The dataset used in this analysis is the **Global Video Game Sales**, which can be downloaded directly from Kaggle:
+* [Video Game Sales with Ratings (Kaggle)](https://www.kaggle.com/datasets/rush4949/videogame-sales-with-ratings)
+
+> **Note:** Please ensure the file is named `Global_Video_Game_Sales.csv` and placed in the root directory of this project.
